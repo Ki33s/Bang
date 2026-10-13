@@ -1,0 +1,7 @@
+**/bin
+**/obj
+Library
+Builds
+Logs
+Temp
+.git
